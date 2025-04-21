@@ -3,6 +3,14 @@
 
 Ссылка на проект: https://t.me/timeass_bot
 
+
+Скришоты переписки с ботом: 
+
+![скриншот 1](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true)
+![скриншот 2](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true)
+![скриншот 3](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87%D1%81.JPG?raw=true)
+
+
 ## Описание проекта
 
 **ИИ-Ассистент: Личный консультант по продуктивности** — это инновационный телеграм-бот, созданный для помощи в управлении временем, достижении целей и улучшении навыков тайм-менеджмента. Бот использует современные методики (например, SMART, OKR, Hard Goals) и предоставляет персонализированные рекомендации с учетом индивидуальных особенностей пользователя.
@@ -102,9 +110,3 @@
 - [Google Календарь](https://calendar.google.com/)  
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 ```
-
-Скришоты переписки с ботом: 
-
-![скриншот 1](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true))
-![скриншот 2](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true))
-![скриншот 3](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87%D1%81.JPG?raw=true))
