@@ -6,6 +6,9 @@
 Скришоты переписки с ботом: https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F.JPG
 https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG
 
+![Альтернативный текст](URL_изображения "Необязательная подсказка") https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F.JPG?raw=true
+https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true
+
 ## Описание проекта
 
 **ИИ-Ассистент: Личный консультант по продуктивности** — это инновационный телеграм-бот, созданный для помощи в управлении временем, достижении целей и улучшении навыков тайм-менеджмента. Бот использует современные методики (например, SMART, OKR, Hard Goals) и предоставляет персонализированные рекомендации с учетом индивидуальных особенностей пользователя.
