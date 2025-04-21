@@ -4,9 +4,8 @@
 Ссылка на проект: https://t.me/timeass_bot
 
 Скришоты переписки с ботом: 
-![Иллюстрация к проекту](https://example.com/image.png)
-![Альтернативный текст]([[URL_изображения "Необязательная подсказка"](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true)](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F.JPG?raw=true)) 
-
+![скриншот 1](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true)](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F.JPG?raw=true)) 
+![скриншот 2](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true))
 
 ## Описание проекта
 
