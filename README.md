@@ -105,6 +105,6 @@
 
 Скришоты переписки с ботом: 
 
-![скриншот 1](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true)
-![скриншот 2](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true)
-![скриншот 3](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87%D1%81.JPG?raw=true)
+![скриншот 1](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true))
+![скриншот 2](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87.JPG?raw=true))
+![скриншот 3](https://github.com/OlgaKor15/ai_assistent/blob/main/%D1%8F%D1%87%D1%81.JPG?raw=true))
